@@ -1,0 +1,14 @@
+/* Custom style sheet */
+
+.msg {
+    width: 350px;
+    height: 40px;
+    margin: 0 auto 5px;
+    background-color: cornflowerblue;
+    color: #fff;
+    padding: 0 20px 30px;
+    border: 1px solid red;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 30px;
+}
